@@ -1,0 +1,5 @@
+The battle of neighborhoods
+Data
+
+We will reuse the local data in Toronto of Week 3 (which includes longitude, latitude, location name and zipcode) 
+and some Foursquare API to show the detailed information and the map. 
